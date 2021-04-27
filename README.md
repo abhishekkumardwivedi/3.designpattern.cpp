@@ -1,8 +1,8 @@
 # Design Pattern
 
 **Creational**
-1. [Abstract Factory](../abstract-factory)
-2. [Builder](../builder)
+1. [Abstract Factory](./abstract-factory)
+2. [Builder](./builder)
 3. Dependency Injection
 4. Factory Method
 5. Lazy Initialization
