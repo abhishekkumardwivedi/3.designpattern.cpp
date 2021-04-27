@@ -1,0 +1,10 @@
+#ifndef CPP_DESIGN_PATTERN_BUILDER_H
+#define CPP_DESIGN_PATTERN_BUILDER_H
+
+
+class builder {
+
+};
+
+
+#endif //CPP_DESIGN_PATTERN_BUILDER_H
