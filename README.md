@@ -1,4 +1,11 @@
-# Design Pattern
+## Concepts
+* Type casting
+  * [```reinterpret_cast```](https://www.cplusplus.com/doc/oldtutorial/typecasting/)
+  * ```dynamic_cast```
+  * ```static_cast```
+  * ```const_cast```    
+
+## Design Pattern
 
 **Creational**
 1. [Abstract Factory](./abstract-factory)
